@@ -13,7 +13,7 @@ git clone https://github.com/AILab121/OOSE.git
 
 # use rosdep to install all dependencies (including ROS itself)
 sudo apt-get update -qq
-sudo apt-get install -qq -y python-rosdep
+sudo apt-get install -qq -y python3-rosdep
 sudo rosdep init
 rosdep update
 rosdep install --from-paths ./ -i -y --rosdistro noetic
