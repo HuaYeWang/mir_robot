@@ -109,3 +109,6 @@ rviz -d $(rospack find mir_navigation)/rviz/navigation.rviz
 ```bash
 https://gitlab.com/Humpelstilzchen/path_coverage_ros/
 ```
+```bash
+https://github.com/DFKI-NI/mir_robot
+```
