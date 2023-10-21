@@ -104,3 +104,8 @@ roslaunch mir_driver mir.launch
 roslaunch mir_navigation costmap.xml
 rviz -d $(rospack find mir_navigation)/rviz/navigation.rviz
 ```
+
+### Reference
+```bash
+https://gitlab.com/Humpelstilzchen/path_coverage_ros/
+```
