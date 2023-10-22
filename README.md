@@ -106,9 +106,8 @@ rviz -d $(rospack find mir_navigation)/rviz/navigation.rviz
 ```
 
 ### Reference
-```bash
-https://gitlab.com/Humpelstilzchen/path_coverage_ros/
-```
-```bash
-https://github.com/DFKI-NI/mir_robot
-```
+
+[Boustrophedon Cellular Decomposition (BCD)](https://gitlab.com/Humpelstilzchen/path_coverage_ros/)
+
+[DFKI MiR Robots](https://github.com/DFKI-NI/mir_robot)
+
